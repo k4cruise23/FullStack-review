@@ -1,0 +1,22 @@
+.hero-img{
+    background: url('https://statics.vrutal.com/m/9a31/9a31295144f733b1f46f4f68fd461666_thumb_fb.jpg');
+    height: 50vh;
+    min-height: 500px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.register-form {
+    background: #00000088;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    position: absolute;
+    right: 60px;
+    top: 60px;
+    height: 300px;
+    justify-content: space-evenly;
+}
